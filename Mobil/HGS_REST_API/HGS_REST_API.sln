@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HGS_REST_API", "HGS_REST_API\HGS_REST_API.csproj", "{9644E3DF-C183-481A-9D10-DFF34094A89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9644E3DF-C183-481A-9D10-DFF34094A89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9644E3DF-C183-481A-9D10-DFF34094A89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9644E3DF-C183-481A-9D10-DFF34094A89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9644E3DF-C183-481A-9D10-DFF34094A89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159A05F4-D245-4713-B626-348B2F2D063B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="YazilimBakimiEntities-Web.config Connection String" description="YazilimBakimiEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/YazilimBakimi.csdl|res://*/YazilimBakimi.ssdl|res://*/YazilimBakimi.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-HK9PBT0\SQLEXPRESS;initial catalog=YazilimBakimi;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maydn\\OneDrive\\Masaüstü\\HGS_REST_API\\HGS_REST_API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='YazilimBakimiEntities']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maydn\\OneDrive\\Masaüstü\\HGS_REST_API\\HGS_REST_API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='yazilimbakimiEntities']/@connectionString" />
+  </parameter>
+</parameters>

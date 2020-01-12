@@ -1,0 +1,48 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.HGS_Kurum
+
+@{
+    ViewBag.Title = "HGSlerim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Tutunamayanlar.Models.EntityFramework.HGS_Banka> hgsler = ViewBag.hgs;
+}
+
+<div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-header">
+
+        <div class="signin-form profile">
+            <h3 class="agileinfo_sign">HGS'lerim</h3>
+            <a href="/HGS/YeniHGS" class="btn btn-success">HGS Satın Al</a>
+            <div class="login-form">
+                @ViewBag.HesapMesaj
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <td>HGS No</td>
+                            <td>Bakiye</td>
+                            <td>Bakiye Yükle</td>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @if (hgsler != null)
+                        {
+                            foreach (var hgs in hgsler)
+                            {
+                                <tr>
+                                    <td>@hgs.HGSNumarası</td>
+                                    <td>@hgs.hgsBakiyesi</td>
+                                    <td><a href="/HGS/HGSBakiyeYukle/@hgs.HGSNumarası" class="btn btn-primary">Bakiye Yükle</a></td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <h3>HGS'niz bulunmamaktadır!</h3>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

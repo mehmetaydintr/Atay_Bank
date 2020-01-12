@@ -1,0 +1,172 @@
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.dll.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Console.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Newtonsoft.Json.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Cors.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Helpers.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.Cors.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Mvc.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.Cors.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Helpers.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Mvc.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Newtonsoft.Json.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csprojAssemblyReference.cache
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csproj.CoreCompileInputs.cache
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csproj.CopyComplete
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Swashbuckle.Core.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\WebActivatorEx.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csprojAssemblyReference.cache
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csproj.CoreCompileInputs.cache
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.dll.config
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Tutunamayanlar_Rest_Api.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.exe
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\csi.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Console.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\vbc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Newtonsoft.Json.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Swashbuckle.Core.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Cors.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Helpers.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.Cors.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Mvc.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\WebActivatorEx.dll
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.Cors.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Helpers.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Mvc.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Newtonsoft.Json.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\OneDrive\Masaüstü\Atay Bank\Mobil\Tutunamayanlar_Rest_Api\Tutunamayanlar_Rest_Api\obj\Debug\Tutunamayanlar_Rest_Api.csproj.CopyComplete

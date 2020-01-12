@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="yazilimbakimiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="havale_virman">
+    <Key>
+      <PropertyRef Name="islemID" />
+    </Key>
+    <Property Name="islemID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="islemTarihi" Type="datetime" />
+    <Property Name="turu" Type="nvarchar" MaxLength="10" />
+    <Property Name="tutar" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="aliciHesapNo" Type="nvarchar" MaxLength="13" />
+    <Property Name="gondericiHesapNo" Type="nvarchar" MaxLength="13" />
+    <Property Name="platform" Type="nvarchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="hesap">
+    <Key>
+      <PropertyRef Name="hesapNo" />
+    </Key>
+    <Property Name="hesapNo" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="musteriNo" Type="bigint" />
+    <Property Name="bakiye" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="aktiflikDurumu" Type="bit" />
+  </EntityType>
+  <EntityType Name="HGS_Banka">
+    <Key>
+      <PropertyRef Name="HGSNumarası" />
+    </Key>
+    <Property Name="HGSNumarası" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="hgsBakiyesi" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="HGSMusteriNumarasi" Type="bigint" />
+  </EntityType>
+  <EntityType Name="HGS_Kurum">
+    <Key>
+      <PropertyRef Name="HGSNO" />
+    </Key>
+    <Property Name="HGSNO" Type="nvarchar" MaxLength="13" Nullable="false" />
+    <Property Name="hgsBakiye" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="musteriNumarasi" Type="bigint" />
+  </EntityType>
+  <EntityType Name="kullanici">
+    <Key>
+      <PropertyRef Name="musteriNo" />
+    </Key>
+    <Property Name="musteriNo" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="soyad" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TCKN" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="sifre" Type="nvarchar" MaxLength="6" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="adres" Type="text" Nullable="false" />
+    <Property Name="telefon" Type="nvarchar" MaxLength="11" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_havale_virman_hesap">
+    <End Role="hesap" Type="Self.hesap" Multiplicity="0..1" />
+    <End Role="havale_virman" Type="Self.havale_virman" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hesap">
+        <PropertyRef Name="hesapNo" />
+      </Principal>
+      <Dependent Role="havale_virman">
+        <PropertyRef Name="gondericiHesapNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_havale_virman_hesap1">
+    <End Role="hesap" Type="Self.hesap" Multiplicity="0..1" />
+    <End Role="havale_virman" Type="Self.havale_virman" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hesap">
+        <PropertyRef Name="hesapNo" />
+      </Principal>
+      <Dependent Role="havale_virman">
+        <PropertyRef Name="aliciHesapNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_hesap_kullanici">
+    <End Role="kullanici" Type="Self.kullanici" Multiplicity="0..1" />
+    <End Role="hesap" Type="Self.hesap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kullanici">
+        <PropertyRef Name="musteriNo" />
+      </Principal>
+      <Dependent Role="hesap">
+        <PropertyRef Name="musteriNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HGS_Banka_kullanici">
+    <End Role="kullanici" Type="Self.kullanici" Multiplicity="0..1" />
+    <End Role="HGS_Banka" Type="Self.HGS_Banka" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kullanici">
+        <PropertyRef Name="musteriNo" />
+      </Principal>
+      <Dependent Role="HGS_Banka">
+        <PropertyRef Name="HGSMusteriNumarasi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="yazilimbakimiModelStoreContainer">
+    <EntitySet Name="havale_virman" EntityType="Self.havale_virman" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="hesap" EntityType="Self.hesap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HGS_Banka" EntityType="Self.HGS_Banka" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HGS_Kurum" EntityType="Self.HGS_Kurum" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kullanici" EntityType="Self.kullanici" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_havale_virman_hesap" Association="Self.FK_havale_virman_hesap">
+      <End Role="hesap" EntitySet="hesap" />
+      <End Role="havale_virman" EntitySet="havale_virman" />
+    </AssociationSet>
+    <AssociationSet Name="FK_havale_virman_hesap1" Association="Self.FK_havale_virman_hesap1">
+      <End Role="hesap" EntitySet="hesap" />
+      <End Role="havale_virman" EntitySet="havale_virman" />
+    </AssociationSet>
+    <AssociationSet Name="FK_hesap_kullanici" Association="Self.FK_hesap_kullanici">
+      <End Role="kullanici" EntitySet="kullanici" />
+      <End Role="hesap" EntitySet="hesap" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HGS_Banka_kullanici" Association="Self.FK_HGS_Banka_kullanici">
+      <End Role="kullanici" EntitySet="kullanici" />
+      <End Role="HGS_Banka" EntitySet="HGS_Banka" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

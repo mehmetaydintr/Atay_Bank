@@ -1,0 +1,51 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.hesap
+
+@{
+    ViewBag.Title = "Hesaplarim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Tutunamayanlar.Models.EntityFramework.hesap> hesaplar = ViewBag.hesap;
+}
+
+
+
+<div class="modal-dialog">
+    <!-- Modal content-->
+        <div class="modal-header">
+
+            <div class="signin-form profile">
+                <h3 class="agileinfo_sign">Hesaplarım</h3>
+                <a href="/Hesap/YeniHesap" class="btn btn-success">Yeni Hesap Aç</a>
+                <h6 class="agileinfo_sign" style="margin-top: 20px; color: red">*Hesapları silmek için bakiyenizin 0 tl olması gerekmektedir!</h6>
+                <div class="login-form">
+                    @ViewBag.HesapMesaj
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <td>Hesap No</td>
+                                <td>Bakiye</td>
+                                <td>Para Yatır</td>
+                                <td>Para Çek</td>
+                                <td>Hesabı Sil</td>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var hesap in hesaplar)
+                            {
+                                if (hesap.aktiflikDurumu == true)
+                                {
+                                    <tr>
+                                        <td>@hesap.hesapNo</td>
+                                        <td>@hesap.bakiye</td>
+                                        <td><a href="/Hesap/ParaYatir/@hesap.hesapNo" class="btn btn-primary">Para Yatır</a></td>
+                                        <td><a href="/Hesap/ParaCek/@hesap.hesapNo" class="btn btn-primary">Para Çek</a></td>
+                                        <td><a href="/Hesap/Sil/@hesap.hesapNo" class="btn btn-warning">Hesabı Sil</a></td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+</div>

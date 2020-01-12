@@ -1,0 +1,34 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.HGS_Kurum
+@{
+    ViewBag.Title = "HGSBakiyeYukle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="" method="post">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <div class="signin-form profile">
+                    <h3 class="agileinfo_sign">Bakiye Yükle</h3>
+                    <div class="login-form">
+                        @ViewBag.HGSBakiyeYukleMesaj
+                        @using (Html.BeginForm("ParaYatir", "Hesap", FormMethod.Post))
+                        {
+                            <div class="form-group">
+                                @Html.Label("Bakiyeniz : ") @ViewBag.HGSBakiyeYukleBakiye @Html.Label("₺")
+                                <br />
+                                @Html.Label("Tutar")
+                                @Html.TextBoxFor(m => m.hgsBakiye, new { @onkeypress = "return (event.charCode>=48 && event.charCode<=57)", @maxlength = 16, @class = "form-control" })
+
+                            </div>
+                            <button type="submit" class="btn btn-success">Yükle</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

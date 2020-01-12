@@ -1,0 +1,42 @@
+﻿@{
+    var kullaniciadi = User.Identity.Name.Split(' ');
+}
+<div class="header">
+
+
+    <div class="clearfix"> </div>
+</div>
+<div class="banner">
+    <nav class="navbar navbar-default">
+        <div class="navbar-header navbar-left">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <h1><a class="navbar-brand" href="/"><span>A</span>tay Bank</a></h1>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+            <nav class="link-effect-2" id="link-effect-2">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/"><span data-hover="Anasayfa">Anasayfa</span></a></li>
+                    <li><a href="/Transfer/Hesaplarim"><span data-hover="Transfer İşlemleri">Transfer İşlemleri</span></a></li>
+                    <li><a href="/HGS/HGSlerim"><span data-hover="HGS İşlemleri">HGS İşlemleri</span></a></li>
+                    <li><a href="/Hesap/Hesaplarim"><span data-hover="Hesap İşlemleri">Hesap İşlemleri</span></a></li>
+                    <li><a href="/Kredi/Kredi"><span data-hover="Kredi Talep Et">Kredi Talep Et</span></a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span data-hover="@kullaniciadi[0] @kullaniciadi[1]"> @kullaniciadi[0] @kullaniciadi[1]</span> <b class="caret"></b></a>
+                        <ul class="dropdown-menu agile_short_dropdown">
+                            <li><a href="/Home/Guncelle">Kişisel Bilgileri Güncelle</a></li>
+                            <li><a href="/Login/LogOut">Çıkış Yap</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+
+        </div>
+
+    </nav>
+</div>

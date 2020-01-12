@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a12d7b99d2a947f58cb0ccb5fe611412" Name="Diagram1">
+        <EntityTypeShape EntityType="yazilimbakimiModel.havale_virman" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="yazilimbakimiModel.hesap" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="yazilimbakimiModel.HGS_Banka" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="yazilimbakimiModel.HGS_Kurum" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="yazilimbakimiModel.kullanici" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <AssociationConnector Association="yazilimbakimiModel.FK_havale_virman_hesap" ManuallyRouted="false" />
+        <AssociationConnector Association="yazilimbakimiModel.FK_havale_virman_hesap1" ManuallyRouted="false" />
+        <AssociationConnector Association="yazilimbakimiModel.FK_hesap_kullanici" ManuallyRouted="false" />
+        <AssociationConnector Association="yazilimbakimiModel.FK_HGS_Banka_kullanici" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

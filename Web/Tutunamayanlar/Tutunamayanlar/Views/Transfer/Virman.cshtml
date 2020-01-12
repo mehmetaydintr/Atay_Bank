@@ -1,0 +1,64 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.havale_virman
+
+@{
+    ViewBag.Title = "Virman";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Tutunamayanlar.Models.EntityFramework.hesap> hesaplar = ViewBag.VirmanHesaplar;
+}
+
+<script src="http://code.jquery.com/jquery-1.11.0.js"
+        integrity="sha256-zgND4db0iXaO7v4CLBIYHGoIIudWI5hRMQrPB20j0Qw="
+        crossorigin="anonymous"></script>
+
+<script>
+    $(document).ready(function () {
+        $(".hesapNo").click(function () {
+            var value = $(this).attr("id");
+            $(".alici").val(value);
+        });
+    });
+</script>
+
+<form action="" method="post">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <div class="signin-form profile">
+                    <h3 class="agileinfo_sign">Virman İşlemleri</h3>
+                    <div class="login-form">
+                        @ViewBag.VirmanMesaj
+                        @using (Html.BeginForm("Virman", "Transfer", FormMethod.Post))
+                        {
+                        <div class="form-group">
+                            @if (hesaplar.Count != 0)
+                            {
+                                <span style="color:blue">Lütfen İşlem Yapacağınız Hesap Numarasını Seçiniz</span>
+                                <br />
+                                foreach (var hesap in hesaplar)
+                                {
+                                    <p id="@hesap.hesapNo" class="hesapNo">@hesap.hesapNo</p>
+                                }
+                            }
+                            else
+                            {
+                                <p>Virman Yapabileceğiniz Hesabınız Bulunmamaktadır!</p>
+                            }
+                            <br />
+                            @Html.Label("Bakiyeniz : ") @ViewBag.VirmanBakiye @Html.Label("₺")
+                            <br />
+                            @Html.Label("Alıcı Hesap No")
+                            @Html.TextBoxFor(m => m.aliciHesapNo, new { @onkeypress = "return event.charCode>=48 &&event.charCode<=57", @maxlength = 13, @class = "form-control alici" })
+                            @Html.LabelFor(m => m.tutar)
+                            @Html.TextBoxFor(m => m.tutar, new { @onkeypress = "return (event.charCode>=48 && event.charCode<=57) || event.charCode==44", @maxlength = 16, @class = "form-control" })
+                        </div>
+                            <button type="submit" class="btn btn-success">Gönder</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

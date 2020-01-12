@@ -1,0 +1,365 @@
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll.config
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.pdb
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe.config
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.rsp
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe.config
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.rsp
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Console.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe.config
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.rsp
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csprojAssemblyReference.cache
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CoreCompileInputs.cache
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CopyComplete
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.pdb
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.xml
+C:\Users\maydn\source\repos\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Console.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csprojAssemblyReference.cache
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CoreCompileInputs.cache
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CopyComplete
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Console.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csprojAssemblyReference.cache
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CoreCompileInputs.cache
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CopyComplete
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.pdb
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll.config
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.pdb
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe.config
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.rsp
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe.config
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.rsp
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.AppContext.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Console.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Compression.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.AccessControl.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Claims.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.ValueTuple.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe.config
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.rsp
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.WebPages.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\bin\System.Web.WebPages.xml
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csprojAssemblyReference.cache
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CoreCompileInputs.cache
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CopyComplete
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.dll
+D:\Desktop\Ders Notları\Yazılım Bakımı\Proje\MVC\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Tutunamayanlar.pdb
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\csi.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.AppContext.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Console.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Compression.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Claims.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.ValueTuple.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\vbc.rsp
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.WebPages.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\EntityFramework.SqlServer.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Webpages.Razor.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Helpers.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.Mvc.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\bin\System.Web.WebPages.xml
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csprojAssemblyReference.cache
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CoreCompileInputs.cache
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.csproj.CopyComplete
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.dll
+C:\Users\maydn\OneDrive\Masaüstü\Yedek\Web\Tutunamayanlar\Tutunamayanlar\obj\Debug\Tutunamayanlar.pdb

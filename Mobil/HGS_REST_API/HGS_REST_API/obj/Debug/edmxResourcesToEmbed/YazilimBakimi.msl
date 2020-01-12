@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="yazilimbakimiModelStoreContainer" CdmEntityContainer="yazilimbakimiEntities">
+    <EntitySetMapping Name="havale_virman">
+      <EntityTypeMapping TypeName="yazilimbakimiModel.havale_virman">
+        <MappingFragment StoreEntitySet="havale_virman">
+          <ScalarProperty Name="islemID" ColumnName="islemID" />
+          <ScalarProperty Name="islemTarihi" ColumnName="islemTarihi" />
+          <ScalarProperty Name="turu" ColumnName="turu" />
+          <ScalarProperty Name="tutar" ColumnName="tutar" />
+          <ScalarProperty Name="aliciHesapNo" ColumnName="aliciHesapNo" />
+          <ScalarProperty Name="gondericiHesapNo" ColumnName="gondericiHesapNo" />
+          <ScalarProperty Name="platform" ColumnName="platform" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hesap">
+      <EntityTypeMapping TypeName="yazilimbakimiModel.hesap">
+        <MappingFragment StoreEntitySet="hesap">
+          <ScalarProperty Name="hesapNo" ColumnName="hesapNo" />
+          <ScalarProperty Name="musteriNo" ColumnName="musteriNo" />
+          <ScalarProperty Name="bakiye" ColumnName="bakiye" />
+          <ScalarProperty Name="aktiflikDurumu" ColumnName="aktiflikDurumu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HGS_Banka">
+      <EntityTypeMapping TypeName="yazilimbakimiModel.HGS_Banka">
+        <MappingFragment StoreEntitySet="HGS_Banka">
+          <ScalarProperty Name="HGSNumarası" ColumnName="HGSNumarası" />
+          <ScalarProperty Name="hgsBakiyesi" ColumnName="hgsBakiyesi" />
+          <ScalarProperty Name="HGSMusteriNumarasi" ColumnName="HGSMusteriNumarasi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HGS_Kurum">
+      <EntityTypeMapping TypeName="yazilimbakimiModel.HGS_Kurum">
+        <MappingFragment StoreEntitySet="HGS_Kurum">
+          <ScalarProperty Name="HGSNO" ColumnName="HGSNO" />
+          <ScalarProperty Name="hgsBakiye" ColumnName="hgsBakiye" />
+          <ScalarProperty Name="musteriNumarasi" ColumnName="musteriNumarasi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kullanici">
+      <EntityTypeMapping TypeName="yazilimbakimiModel.kullanici">
+        <MappingFragment StoreEntitySet="kullanici">
+          <ScalarProperty Name="musteriNo" ColumnName="musteriNo" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="soyad" ColumnName="soyad" />
+          <ScalarProperty Name="TCKN" ColumnName="TCKN" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

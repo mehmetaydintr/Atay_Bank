@@ -1,0 +1,33 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.kullanici
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<form action="" method="post">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <div class="signin-form profile">
+                    <h3 class="agileinfo_sign">Giriş Yap</h3>
+                    <div class="login-form">
+                        @ViewBag.GirisMesaj
+                        @using (Html.BeginForm("Register", "Login", FormMethod.Post))
+                        {
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.TCKN)
+                                @Html.TextBoxFor(m => m.TCKN, new { @onkeypress = "return event.charCode>=48 &&event.charCode<=57", @maxlength = 11, @class = "form-control" })
+                                @Html.LabelFor(m => m.sifre)
+                                @Html.PasswordFor(m => m.sifre, new { @maxlength = 6, @class = "form-control" })
+                            </div>
+                            <button type="submit" class="btn btn-success">Giriş Yap</button>
+                        }
+                    </div>
+                    <p><a href="/Login/Register"> Hesabınız yok mu? </a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

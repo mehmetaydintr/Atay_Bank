@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Kredi Tahmini";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="tr">
+<body class="w-50 mx-auto">
+    <br /> <br />
+           <form>
+               <div class="form-group text-center">
+                   <label for="kredimiktari">İstediğiniz Kredi Miktarı</label>
+                   <input type="text" id="kredimiktari" maxlength="6" onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="form-control center-block" placeholder="Talep ettiğiniz kredi miktarını giriniz">
+               </div>
+               <br />
+               <div class="form-group text-center">
+                   <label for="yas">Yaşınız</label>
+                   <input type="text" id="yas" maxlength="3" onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="form-control center-block" placeholder="Yaşınızı giriniz">
+               </div>
+               <br />
+               <div class="form-group text-center">
+                   <label for="evdurumu">Evinizin Durumunu</label>
+                   <select name="evdurumu" id="evdurumu" class="form-control center-block">
+                       <option value="evsahibi">Ev Sahibi</option>
+                       <option value="kiraci">Kiracı</option>
+                   </select>
+               </div>
+               <br />
+               <div class="form-group text-center">
+                   <label for="kredisayisi">Aldığınız Kredi Sayısı</label>
+                   <input type="text" id="kredisayisi" maxlength="1" onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="form-control center-block" placeholder="Almakta olduğunuz kredi sayısını giriniz">
+               </div>
+               <br />
+               <div class="form-group text-center">
+                   <label for="telefondurumu">Telefonunuz Var mı?</label>
+                   <select name="telefondurumu" id="telefondurumu" class="form-control center-block">
+                       <option value="var">Var</option>
+                       <option value="yok">Yok</option>
+                   </select>
+               </div>
+               <br />
+               <div class="form-group text-center">
+                   <button class="btn btn-success btn-lg  center-block" id="predict-button" type="button">Kredi Talep Et</button>
+               </div>
+               <div class="form-group text-center">
+                   <label class="yazi" id="result"></label>
+               </div>
+           </form>
+    <br /><br />
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script>
+        $("#predict-button").click(function () {
+            if ($("#kredimiktari").val().length === 0) {
+                $("#result").text("");
+                alert("Lütfen kredi miktarınızı giriniz");
+            }
+            else if ($("#yas").val().length === 0) {
+                $("#result").text("");
+                alert("Lütfen yaşınızı giriniz");
+            }
+            else if ($("#kredisayisi").val().length === 0) {
+                $("#result").text("");
+                alert("Lütfen aldığınız kredi sayısını giriniz");
+            }
+            else
+            {
+                let message = {
+                    miktar: $("#kredimiktari").val(),
+                    yas: $("#yas").val(),
+                    ev: $("#evdurumu").val(),
+                    kredisayisi: $("#kredisayisi").val(),
+                    tel: $("#telefondurumu").val()
+                }
+                console.log(message);
+                $.post("http://127.0.0.1:5000/predict", JSON.stringify(message), function (response) {
+                    if (response.prediction == 1) {
+                        $("#result").text("Kredi alabiliyorsunuz.");
+                    }
+                    else {
+                        $("#result").text("Kredi alamıyorsunuz.");
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

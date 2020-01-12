@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="yazilimbakimiEntities-Web.config Connection String" description="yazilimbakimiEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/YazilimBakimiDBModel.csdl|res://*/YazilimBakimiDBModel.ssdl|res://*/YazilimBakimiDBModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=yazilimbank.database.windows.net;initial catalog=yazilimbakimi;persist security info=True;user id=yazilimbank;password=Yazilim123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\maydn\\OneDrive\\Masaüstü\\Tutunamayanlar_Rest_Api\\Tutunamayanlar_Rest_Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='yazilimbakimiEntities']/@connectionString" />
+  </parameter>
+</parameters>

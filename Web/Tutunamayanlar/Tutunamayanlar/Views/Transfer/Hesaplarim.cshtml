@@ -1,0 +1,45 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.hesap
+
+@{
+    ViewBag.Title = "Hesaplarim";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Tutunamayanlar.Models.EntityFramework.hesap> hesaplar = ViewBag.hesaplar;
+}
+
+<div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-header">
+
+        <div class="signin-form profile">
+            <h3 class="agileinfo_sign">Hesaplarım</h3>
+            <div class="login-form">
+                @ViewBag.HesapMesaj
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <td>Hesap No</td>
+                            <td>Bakiye</td>
+                            <td>Havale İşlemleri</td>
+                            <td>Virman İşlemleri</td>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var hesap in hesaplar)
+                        {
+                            if (hesap.aktiflikDurumu == true)
+                            {
+                                <tr>
+                                    <td>@hesap.hesapNo</td>
+                                    <td>@hesap.bakiye</td>
+                                    <td><a href="/Transfer/Havale/@hesap.hesapNo" class="btn btn-primary">Havale</a></td>
+                                    <td><a href="/Transfer/Virman/@hesap.hesapNo" class="btn btn-primary">Virman</a></td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

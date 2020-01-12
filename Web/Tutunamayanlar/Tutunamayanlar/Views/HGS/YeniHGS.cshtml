@@ -1,0 +1,33 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.HGS_Kurum
+
+@{
+    ViewBag.Title = "YeniHGS";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="" method="post">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <div class="signin-form profile">
+                    <h3 class="agileinfo_sign">HGS Satın Al</h3>
+                    <h6 class="agileinfo_sign" style="margin-top: 20px; color: red">*Yeni HGS ücreti 25₺'dir! Bu ücret bakiyenizden düşülecektir</h6>
+                    <div class="login-form">
+                        @ViewBag.YeniHGSMesaj
+                        @using (Html.BeginForm("YeniHGS", "HGS", FormMethod.Post))
+                        {
+                            <div class="form-group">
+                                @Html.Label("Bakiye")
+                                @Html.TextBoxFor(m => m.hgsBakiye, new { @onkeypress = "return (event.charCode>=48 && event.charCode<=57)", @maxlength = 16, @class = "form-control" })
+                            </div>
+                            <button type="submit" class="btn btn-success">Satın Al</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

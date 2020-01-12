@@ -1,0 +1,36 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.havale_virman
+
+@{
+    ViewBag.Title = "Havale";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="" method="post">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <div class="signin-form profile">
+                    <h3 class="agileinfo_sign">Havale İşlemleri</h3>
+                    <div class="login-form">
+                        @ViewBag.TransferMesaj
+                        @using (Html.BeginForm("Havale", "Transfer", FormMethod.Post))
+                        {
+                        <div class="form-group">
+                            @Html.Label("Bakiyeniz : ") @ViewBag.TransferBakiye @Html.Label("₺")
+                            <br />
+                            @Html.Label("Alıcı Hesap No")
+                            @Html.TextBoxFor(m => m.aliciHesapNo, new { @onkeypress = "return event.charCode>=48 &&event.charCode<=57", @maxlength = 13, @class = "form-control" })
+                            @Html.LabelFor(m => m.tutar)
+                            @Html.TextBoxFor(m => m.tutar, new { @onkeypress = "return (event.charCode>=48 && event.charCode<=57) || event.charCode==44", @maxlength = 16, @class = "form-control" })
+                        </div>
+                            <button type="submit" class="btn btn-success">Gönder</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

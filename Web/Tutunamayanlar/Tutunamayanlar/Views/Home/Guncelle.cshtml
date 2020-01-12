@@ -1,0 +1,49 @@
+﻿@model Tutunamayanlar.Models.EntityFramework.kullanici
+
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+        <div class="modal-header">
+
+            <div class="signin-form profile">
+                <h3 class="agileinfo_sign">Kişisel Bilgileri Güncelle</h3>
+                <div class="login-form">
+                    @using (Html.BeginForm("Guncelle", "Home", FormMethod.Post))
+                    {
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.ad)
+                        @Html.TextBoxFor(m => m.ad, new { @onkeypress = "return event.charCode>=97 && event.charCode>=64", @class = "form-control" })
+                        @ViewBag.GuncelleMesajAd
+
+                        @Html.LabelFor(m => m.soyad)
+                        @Html.TextBoxFor(m => m.soyad, new { @onkeypress = "return event.charCode>=97 && event.charCode>=64", @class = "form-control" })
+                        @ViewBag.GuncelleMesajSoyad
+
+                        @Html.LabelFor(m => m.adres)
+                        @Html.TextBoxFor(m => m.adres, new { @class = "form-control" })
+                        @ViewBag.GuncelleMesajAdres
+
+                        @Html.LabelFor(m => m.telefon)
+                        @Html.TextBoxFor(m => m.telefon, new { @onkeypress = "return event.charCode>=48 && event.charCode<=57", @maxlength = 11, @class = "form-control" })
+                        @ViewBag.GuncelleMesajTelefon
+
+                        @Html.LabelFor(m => m.email)
+                        @Html.TextBoxFor(m => m.email, new { @class = "form-control" })
+                        @ViewBag.GuncelleMesajMail
+
+                        @Html.LabelFor(m => m.sifre)
+                        @Html.PasswordFor(m => m.sifre, new { @maxlength = 6, @class = "form-control" })
+                        @ViewBag.GuncelleMesajSifre
+                    </div>
+                        <button type="submit" class="btn btn-success">Kaydet</button>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
