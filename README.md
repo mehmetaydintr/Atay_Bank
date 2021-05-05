@@ -2,9 +2,9 @@
 
 ## İçerik
 
-  1. Kullanılan Teknojiler
-  2. Proje Tanımı
-  3. Web Site Görüntüleri
+  1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Atay_Bank#kullan%C4%B1lan-teknolojiler)
+  2. [Proje Tanımı](https://github.com/mehmetaydintr/Atay_Bank#proje-tan%C4%B1m%C4%B1)
+  3. [Web Site Görüntüleri](https://github.com/mehmetaydintr/Atay_Bank#web-site-g%C3%B6r%C3%BCnt%C3%BCleri)
 
 ## Kullanılan Teknolojiler
   
